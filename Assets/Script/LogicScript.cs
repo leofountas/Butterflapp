@@ -8,7 +8,7 @@ public class LogicScript : MonoBehaviour
     public int playerScore;
     public TMP_Text scoreText;
     public GameObject gameOverScreen;
-    private bool gameOverTriggered = false;
+    public bool gameOverTriggered = false;
     public GameObject tutorial;
     [SerializeField] AudioManager audioManager;
 

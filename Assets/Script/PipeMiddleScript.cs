@@ -18,8 +18,10 @@ public class PipeMiddleScript : MonoBehaviour
         
     }
     private void OnTriggerEnter2D(Collider2D collision) {
-        
-        logic.addScore();
-        audioManager.pointSound();
+        if(logic.gameOverTriggered == false) {
+            logic.addScore();
+            audioManager.pointSound();
+        }
+      
     }   
 }
