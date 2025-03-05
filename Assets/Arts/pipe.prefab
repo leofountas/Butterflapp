@@ -47,7 +47,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4cc9b69ec6dc9b24fb548f8025ff9a8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 10
   deadZone: -50
 --- !u!1 &3249283789537748880
 GameObject:
@@ -126,7 +125,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -8667466294985060184, guid: 698bc98e5a680074a8d40a2ba8186f88, type: 3}
+  m_Sprite: {fileID: -6783900630120892731, guid: 24e44c7c389c5114388b75088be98bbb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -291,6 +290,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   logic: {fileID: 0}
+  audioManager: {fileID: 0}
 --- !u!1 &4940345461308657816
 GameObject:
   m_ObjectHideFlags: 0
@@ -368,7 +368,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -6861365922197683907, guid: 20b4945ac51a26d4a88a7a8bce3befa6, type: 3}
+  m_Sprite: {fileID: 3261109832421413477, guid: 1c596d5356e7a7144a10fe871ab707cf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

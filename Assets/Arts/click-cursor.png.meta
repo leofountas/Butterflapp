@@ -1,22 +1,22 @@
 fileFormatVersion: 2
-guid: bc0d44f3df7edd34cbfff911c0a3a6c7
+guid: 37264f21d9cddc5478a9c7fcf49c7b46
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5761462612539640984
-    second: click-cursor_0
+      213: 8226717876325845237
+    second: click-cursor 1_0
   - first:
-      213: -293232045259879597
-    second: click-cursor_1
+      213: 8383698852439953647
+    second: click-cursor 1_1
   - first:
-      213: 7750797668543151470
-    second: click-cursor_2
+      213: 3703554429844121430
+    second: click-cursor 1_2
   - first:
-      213: -6660505015202332217
-    second: click-cursor_3
+      213: 4267274848441443197
+    second: click-cursor 1_3
   - first:
-      213: 6500089364984283099
-    second: click-cursor_4
+      213: 4783440881270816502
+    second: click-cursor 1_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -125,7 +125,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: click-cursor_0
+      name: click-cursor 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -140,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 89c8e1778b3d4ff40800000000000000
-      internalID: 5761462612539640984
+      spriteID: 5f802cd425c2b2270800000000000000
+      internalID: 8226717876325845237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: click-cursor_1
+      name: click-cursor 1_1
       rect:
         serializedVersion: 2
         x: 64
@@ -162,14 +162,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35b0689220b3eebf0800000000000000
-      internalID: -293232045259879597
+      spriteID: fe0988300b1e85470800000000000000
+      internalID: 8383698852439953647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: click-cursor_2
+      name: click-cursor 1_2
       rect:
         serializedVersion: 2
         x: 118
@@ -184,14 +184,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e6db07ff96d509b60800000000000000
-      internalID: 7750797668543151470
+      spriteID: 657ee25b12ba56330800000000000000
+      internalID: 3703554429844121430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: click-cursor_3
+      name: click-cursor 1_3
       rect:
         serializedVersion: 2
         x: 213
@@ -206,14 +206,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c148204af12193a0800000000000000
-      internalID: -6660505015202332217
+      spriteID: d73af4c9dd7683b30800000000000000
+      internalID: 4267274848441443197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: click-cursor_4
+      name: click-cursor 1_4
       rect:
         serializedVersion: 2
         x: 7
@@ -228,8 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdfbe28a6d4f43a50800000000000000
-      internalID: 6500089364984283099
+      spriteID: 6fe7a344322326240800000000000000
+      internalID: 4783440881270816502
       vertices: []
       indices: 
       edges: []
@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      click-cursor 1_0: 8226717876325845237
+      click-cursor 1_1: 8383698852439953647
+      click-cursor 1_2: 3703554429844121430
+      click-cursor 1_3: 4267274848441443197
+      click-cursor 1_4: 4783440881270816502
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -755,7 +755,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: bc0d44f3df7edd34cbfff911c0a3a6c7, type: 3}
+  m_Texture: {fileID: 2800000, guid: 37264f21d9cddc5478a9c7fcf49c7b46, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -1154,6 +1154,7 @@ MonoBehaviour:
   playerScore: 0
   scoreText: {fileID: 1974325150}
   gameOverScreen: {fileID: 1424635435}
+  gameOverTriggered: 0
   tutorial: {fileID: 481609375}
   audioManager: {fileID: 1853717448}
 --- !u!4 &964982216
@@ -1228,7 +1229,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: bc0d44f3df7edd34cbfff911c0a3a6c7, type: 3}
+  m_Texture: {fileID: 2800000, guid: 37264f21d9cddc5478a9c7fcf49c7b46, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -1278,8 +1279,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0015869, y: -89.67}
-  m_SizeDelta: {x: 93.495, y: 80.98}
+  m_AnchoredPosition: {x: 187.98, y: -343}
+  m_SizeDelta: {x: 119.79, y: 92.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1417507396
 MonoBehaviour:
@@ -1301,7 +1302,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: dfe99db3013bb354e994ab1ade675307, type: 3}
+  m_Texture: {fileID: 2800000, guid: 47cf2e28eb25bc042af67b6c1da315ae, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
